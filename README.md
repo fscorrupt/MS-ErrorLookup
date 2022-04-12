@@ -8,6 +8,6 @@ Enter your Error Code and press **Error Lookup** in Results you can see the Erro
 
 Default Path for Exe is: **C:\temp**  -> if you want to change this, you can do this on Line: 2
 
-![UI](https://i.imgur.com/tuZyssr.png)
+![UI](https://i.imgur.com/eQrE5lU.png)
 
 --- 
