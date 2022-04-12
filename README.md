@@ -4,7 +4,7 @@
 --- 
 
 Simply run the ps file, it will download the required tool and a UI is displayed.
-Enter your Error Code and press **Error Lookup** in Results you can see the Error Lookup.
+Enter your Error Code and press **Error Lookup**, in Results you can see the Error Lookup return.
 
 Default Path for Exe is: **C:\temp**  -> if you want to change this, you can do this on Line: 2
 
